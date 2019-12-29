@@ -1,4 +1,7 @@
 # learn-golang
 Learning the language
 
-github.com/callicoder/golang-tutorials
+## Curated References
+
+https://github.com/callicoder/golang-tutorials
+https://github.com/golang/go/wiki/GoForCPPProgrammers
