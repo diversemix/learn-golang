@@ -1,3 +1,3 @@
 module diversemix/learn-golang/projects/ellipse
 
-go 1.10
+go 1.13
