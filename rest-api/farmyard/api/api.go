@@ -13,7 +13,7 @@ func Routes() *chi.Mux {
 	router := chi.NewRouter()
 
 	// Read operations
-	router.Get("/{farmID}", GetFarm)
+	router.Get("/farm/{farmID}", GetFarm)
 
 	// router.Get("/{farmID}/animals", GetAllAnimals)
 	// router.Get("/{farmID}/animals/{animalID}", GetAnAnimal)
