@@ -1,1 +1,3 @@
 github.com/diversemix/learn-golang v0.0.0-20200525103759-41c29ecf3197 h1:Jf0WMYbJbJ/QAseU0yjkYMzHmifi2tmBeN71J5e5kJI=
+github.com/diversemix/learn-golang/projects/hello-world/pkg/builder v0.0.0-20200621153019-6754c98101a4 h1:WJWny2ukoT0SAS7JjWM7LZACZQl0DTFPXV6eTZcd8ko=
+github.com/diversemix/learn-golang/projects/hello-world/pkg/builder v0.0.0-20200621153019-6754c98101a4/go.mod h1:x/y0DfTetHFSveE1o58EKKwgqsRrVJxjOqSXZS/L4Xc=
