@@ -1,5 +1,5 @@
 package builder
 
 func GetHello() string {
-	return "Hello
+	return "Hello"
 }
